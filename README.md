@@ -15,21 +15,25 @@ Actualmente soy estudiante de Ingeniería en Desarrollo y Gestión de Software, 
 
 <h2 align="left">Conecta conmigo:</h2>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="display: flex; flex-direction: column; margin-right: 50px ">
-    <a href="https://www.linkedin.com/in/valentin-hernandez-hernandez-9821b8362/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-    </a>
-    <a href="https://discord.gg/jn38VVZr8C" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-    </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=valentin.hernandezz.hernandezz@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-    </a>
-  </div>
-  <div>
-    <img height="200" width="150" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif" alt="peppo dancing" />
-  </div>
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/valentin-hernandez-hernandez-9821b8362/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
+      </a><br/><br/>
+      <a href="https://discord.gg/jn38VVZr8C" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo" />
+      </a><br/><br/>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=valentin.hernandezz.hernandezz@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif" height="200" alt="peppo dancing" />
+    </td>
+  </tr>
+</table>
 </div>
 
 
